@@ -1,0 +1,4 @@
+This is a Repository containing my finished code for the first and second labs of my Data Structures and Algorithms class.
+
+Description: The range of integers that can be represented in Java using a primitive data type is only from -2^63 to 2^63-1.
+In order to manipulate numbers greater than this range, I was tasked to create a Huge Integer class to hold these values.
